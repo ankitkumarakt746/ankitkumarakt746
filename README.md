@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankitkumarakt746
-- 👀 I’m interested in Development, Configuration Management, Automantion, AI/ML ...
-- 🌱 I’m currently learning Kubernetes, Jenkins, Openshift, Julia, Machine Learning.
+- 👀 I’m interested in Development(Python, Java, C++, Julia), Configuration Management(Ansible), Automantion, AI/ML, Cloud Computing(AWS).
+- 🌱 I’m currently learning Kubernetes, Jenkins, Openshift, Julia and Machine Learning.
 - 💞️ I’m looking to collaborate on above technologies.
 - 📫 How to reach me:
   - Email: ankitkumarakt746@gmail.com
