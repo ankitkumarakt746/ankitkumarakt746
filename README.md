@@ -12,7 +12,7 @@ I'm a Platform Engineer based in Greater Noida, India. I'm always driven by my c
 - **Other Tools          :** Apache Web Server, HAProxy, Git / GitHub, Virtual Box
 
 ## 🔥 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ankitkumarakt746&theme=dark&background=000000)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ankitkumarakt746&theme=dark&background=000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumarakt746&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
