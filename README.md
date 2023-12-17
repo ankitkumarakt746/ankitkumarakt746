@@ -11,6 +11,9 @@ I'm a Platform Engineer based in Greater Noida, India. I'm always driven by my c
 - **Logs & Monitoring    :** Datadog, Dynatrace, Telegraf
 - **Other Tools          :** Apache Web Server, HAProxy, Git / GitHub, Virtual Box
 
+## 🔥 My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ankitkumarakt746&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ## 🔗 Links
 
 - **Website:** [Personal Portfolio](https://ankitkumarakt746.github.io/akt/)
@@ -19,6 +22,7 @@ I'm a Platform Engineer based in Greater Noida, India. I'm always driven by my c
 
 
 ## 📫 Get in touch
+
 - **LinkedIn:** [ankit-kumar-in](https://www.linkedin.com/in/ankit-kumar-in/)
 - **Email:** [ankitkumarakt746@gmail.com](ankitkumarakt746@gmail.com)
 
