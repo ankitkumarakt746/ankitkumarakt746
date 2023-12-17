@@ -14,6 +14,8 @@ I'm a Platform Engineer based in Greater Noida, India. I'm always driven by my c
 ## 🔥 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ankitkumarakt746&theme=dark&background=000000)]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumarakt746&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔗 Links
 
 - **Website:** [Personal Portfolio](https://ankitkumarakt746.github.io/akt/)
